@@ -21,5 +21,5 @@ print(x+y)
 # ==========================================
 # Sem napiš svůj kód:
 
-věk = int(input("zadej věk psa"))
-print(f"Pes má {věk*7} let")
+věk = int(input("zadej věk: "))
+print(f"V psích letech by ti bylo {věk*7} let")
