@@ -5,6 +5,7 @@
 
 jméno = input("zadej jméno")
 město = input("zadej bydliště")
+print(f"Jmenuješ se {jméno} a bydlíš v {město}")
 
 # ==========================================
 # ÚLOHA 2: Jednoduchá kalkulačka (součet)
